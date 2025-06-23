@@ -73,6 +73,8 @@ This repository contains a fully interactive **Power BI dashboard** that explore
 ![Screenshot 2025-06-23 050128](https://github.com/user-attachments/assets/d2f7c8e7-64a5-4af9-96df-f30e0ac23333)
   
 ![Screenshot 2025-06-23 050233](https://github.com/user-attachments/assets/e6716169-50e5-4425-904b-dd8ab7f4ae1b)
+![Screenshot 2025-06-23 053356](https://github.com/user-attachments/assets/6196325a-2bc1-481f-8c2f-7c76d56d2946)
+
 
 
 ---
